@@ -1,0 +1,13 @@
+Organization ID
+qkcj7f
+Device Type
+NodeMCU
+Device ID
+123456
+Authentication Method
+use-token-auth
+Authentication Token
+12345678
+APPS:
+API key  a-qkcj7f-8ovulcevjs
+Authentication token  :  8GVcgc0N4WMJQ9csFz
